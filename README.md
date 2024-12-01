@@ -11,5 +11,8 @@ Este proyecto es una aplicación sencilla desarrollada para aprender a colaborar
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/John-fonseca/Proyecto-Colaborativo.git
    cd tu-repositorio
+  ```bash
+     npm install
+ 
